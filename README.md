@@ -3,7 +3,7 @@
 
 - 🔭 Working on a **[Project](https://github.com/Surajgunagi7/Nexus-Sync-)**
 
-- 📫 Reach me here **surajgunagiwork@gmail.com**
+- 📫 Reach me here **work.surajgunagi@gmail.com**
 
 - ⚡ Fun fact **CS and I : A saga of error messages and tangled code.**
 
