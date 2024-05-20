@@ -8,6 +8,7 @@
 - ⚡ Fun fact **CS and I : A saga of error messages and tangled code.**
 
 <h3 align="left">Connect with me:</h3>
+<h1>New Line added</h1>
 <p align="left">
 <a href="https://twitter.com/@suraj_gunagi7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@suraj_gunagi7" height="30" width="40" /></a>
 <a href="https://instagram.com/_suraj_gunagi__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_suraj_gunagi__" height="30" width="40" /></a>
