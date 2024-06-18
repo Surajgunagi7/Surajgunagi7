@@ -5,7 +5,7 @@
 
 - 📫 Reach me here **work.surajgunagi@gmail.com**
 
-- ⚡ Fun fact **CS and I : A saga of error messages and tangled code.**
+- ⚡ Fun fact **CS : Its a saga of error messages and tangled code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
