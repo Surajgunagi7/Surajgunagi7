@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Suraj</h1>
 <h3 align="left">Exploring, Learning, and Creating in the Digital World</h3>
 
-- 🔭 Working on a **[Project](https://github.com/Surajgunagi7/Nexus-Sync-)**
+- 🔭 Learn & Exploring new Technologies
 
 - 📫 Reach me here **work.surajgunagi@gmail.com**
 
