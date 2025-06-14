@@ -3,7 +3,7 @@
 
 - 🔭 Learn & Exploring new Technologies
 
-- 📫 Reach me here **work.surajgunagi@gmail.com**
+- 📫 Reach me here **surajgunagi7025@gmail.com**
 
 - ⚡ Fun fact **CS : Its a saga of error messages and tangled code.**
 
